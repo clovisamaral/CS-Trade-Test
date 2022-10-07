@@ -1,0 +1,6 @@
+Sobre a questão 2, preciso incluir:
+-propriedade IsPoliticallyExposed tipo bool na entidade/interface
+-criar valor no enum para a nova categoria
+-criar regra no serviço para consistir na leitura das informações de input categorizando a saida como PEP
+-criar o teste unitário para essa nova categoria
+-na classe program ajustar a leitura para essa nova informação contida nos dados de entrada
